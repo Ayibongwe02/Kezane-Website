@@ -19,3 +19,7 @@ Contact form with email integration for customer inquiries.
 Gallery showcasing the spa's facilities and client transformations.
 
 Responsive design ensuring optimal performance across various devices.
+
+Installation and Setup: Clone the repository: git clone https://github.com/Ayibongwe02/kezane-website.git
+
+Navigate to the project directory: cd Kezane-website
